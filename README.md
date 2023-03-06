@@ -18,4 +18,18 @@ From a technical standpoint, the website comprises both frontend and backend com
 <li>Deployment: Once the software has been tested and approved, it is deployed to a production environment. The team may use continuous integration and continuous deployment (CI/CD) tools to automate the deployment process.</li>
 <h3 align="center">Planning Phase</h3>
 <p>In the planning phase of Agile methodology, the project team comes together to establish project goals and objectives, define requirements, and identify tasks and deliverables. The team also determines the project timeline, assigns tasks to team members, and establishes project milestones. Throughout this phase, the team works closely with stakeholders to ensure that their needs are met and that the project is aligned with their expectations. The planning phase sets the foundation for the rest of the project, and it is critical to its success.</p>
-<li>Our primary objective for this project is to deliver functional software that effectively solves the problem statement we have identified. We are committed to developing a solution that meets the needs and expectations of our users and provides value to them.</li>
+<li><em>Project goal : </em>Our primary objective for this project is to deliver functional software that effectively solves the problem statement we have identified. We are committed to developing a solution that meets the needs and expectations of our users and provides value to them.</li>
+<li><em>Project requirements</em>
+<ul>
+  <li>req 1</li>
+  <li>req 2</li>
+  <li>req 3</li>
+  <li>req 4</li>
+</ul>
+</li>
+<h4 align="center">Frontend</h4>
+<hr/>
+<h4>Rough sketch / Wireframing :</h4>
+<h4 align="center">Backend</h4>
+<hr/>
+<h4>API endpoints :</h4>
